@@ -91,5 +91,3 @@ Then open the local URL shown in the terminal to access the app.
 * **Jotheeswaran S**
 * **Pradeep Kumar S**
 * **Sridhar P**
-
-Would you like me to add **badges (Streamlit | Python | XGBoost)** and a **preview screenshot** of your deployed app (to make the README look visually appealing)?
